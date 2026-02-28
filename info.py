@@ -1,4 +1,3 @@
-⏤͟͟͞͞ SmArT 𝘽𝙤𝙔"___😎✨𓆩🤍🇮🇳, [27-02-2026 21:11]
 import re
 import os
 from os import environ, getenv
@@ -71,7 +70,6 @@ STAR_PREMIUM_PLANS = {
     75: "60day",
 }  # Premium plans with their respective durations in days
 
-⏤͟͟͞͞ SmArT 𝘽𝙤𝙔"___😎✨𓆩🤍🇮🇳, [27-02-2026 21:11]
 # ============================
 # MongoDB Configuration
 # ============================
@@ -126,7 +124,6 @@ GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Velox_request_group') # Group lin
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/Km_zxop') # Owner link for the bot
 UPDATE_CHNL_LNK = environ.get('UPDATE_CHNL_LNK', 'https://t.me/update_chnl01') # Update channel link for the bot
 
-⏤͟͟͞͞ SmArT 𝘽𝙤𝙔"___😎✨𓆩🤍🇮🇳, [27-02-2026 21:11]
 # ============================
 # User Configuration
 # ============================
@@ -177,7 +174,6 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 LANGUAGES = {"ᴍᴀʟᴀʏᴀʟᴀᴍ":"mal","ᴛᴀᴍɪʟ":"tam","ᴇɴɢʟɪsʜ":"eng","ʜɪɴᴅɪ":"hin","ᴛᴇʟᴜɢᴜ":"tel","ᴋᴀɴɴᴀᴅᴀ":"kan","ɢᴜᴊᴀʀᴀᴛɪ":"guj","ᴍᴀʀᴀᴛʜɪ":"mar","ᴘᴜɴᴊᴀʙɪ":"pun"}
 QUALITIES = ["360P", "480P", "720P", "1080P", "1440P", "2160P", "4K"]
 
-⏤͟͟͞͞ SmArT 𝘽𝙤𝙔"___😎✨𓆩🤍🇮🇳, [27-02-2026 21:11]
 SEASON_COUNT = 12
 SEASONS = [f"S{str(i).zfill(2)}" for i in range(1, SEASON_COUNT + 1)]
 
@@ -275,7 +271,6 @@ else:
     DATABASE_URI = DATABASE_URI
     DATABASE_URI2 = DATABASE_URI2
 
-⏤͟͟͞͞ SmArT 𝘽𝙤𝙔"___😎✨𓆩🤍🇮🇳, [27-02-2026 21:11]
 # ============================
 # Logs Configuration
 # ============================
